@@ -1,0 +1,9 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+a1	movie	title1	title1	0	1963	\N	10	comedy
+a2	movie	title2	title2	0	\N	\N	10	comedy
+a3	movie	title3	title3	0	1965	\N	10	comedy,tragedy
+a4	movie	title4	title4	0	1965	\N	10	comedy
+a5	movie	title5	title5	0	1965	\N	10	comedy
+a6	\N	title6	title6	0	1965	\N	10	comedy
+a7	movie	title7	title7	0	1965	\N	10	comedy
+a8	short	title8	title8	0	1965	\N	10	comedy
